@@ -1,0 +1,9 @@
+.outer {
+    display: table; 
+    position: static;
+}
+.middle {
+    display: table-cell; 
+    vertical-align: middle; 
+    position: static;
+}

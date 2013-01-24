@@ -1,0 +1,134 @@
+/*------------------------------------*\
+    $VARS
+\*------------------------------------*/
+/**
+ * Set up project-specific variables here which are then used throughout your
+ * build. These variables are automatically picked up by inuit.css so you should
+ * never need to modify any framework code.
+ */
+
+
+/**
+ * Debug mode will visually highlight any potential markup/accessibility quirks
+ * in the browser. Set to `true` or `false`.
+ */
+$debug-mode:        false!default;
+
+
+/**
+ * Do you want all elements to adopt `box-sizing:border-box;` as per
+ * paulirish.com/2012/box-sizing-border-box-ftw ?
+ */
+$global-border-box: true!default;
+
+
+/**
+ * Would you like to use Adam Whitcroft’s Batch icon font, as per:
+ * adamwhitcroft.com/batch ?
+ */
+$batch:             false!default;
+
+
+/**
+ * Base stuff
+ */
+$base-font-size:    13px!default;
+$base-line-height:  18px!default;
+
+
+/**
+ * How big would you like round corners to be by default?
+ */
+$brand-round:            4px!default;
+$default-border-radius:    $brand-round;
+
+
+/**
+ * Responsiveness?
+ */
+$responsive:        true!default;
+$flexible-media:    true!default;
+
+/**
+ * Responsive push and pull produce a LOT of code, only turn them on if you
+ * definitely need them.
+ */
+$responsive-push:   false!default;
+$responsive-pull:   false!default;
+
+/**
+ * Tell inuit.css when breakpoints start.
+ */
+$lap-start:         481px!default;
+$desk-start:        1024px!default;
+
+
+/**
+ * Font-sizes (in pixels). Refer to relevant sections for their implementations.
+ */
+$giga-size:         96px!default;
+$mega-size:         72px!default;
+$kilo-size:         48px!default;
+
+$h1-size:           25px!default; // .alpha
+$h2-size:           18px!default; // .beta
+$h3-size:           15px!default; // .gamma
+$h4-size:           14px!default; // .delta
+$h5-size:           13px!default; // .epsilon
+$h6-size:           13px!default; // .zeta
+
+$milli-size:        11px!default;
+$milli-line-height: 15px!default;
+$micro-size:        10px!default;
+
+
+/**
+ * English quote marks?
+ */
+$english-quotes:    true!default;
+
+/**
+ * If you want English quotes then please do not edit these; they’re only here
+ * because Sass needs them.
+ */
+$open-quote:    null;
+$close-quote:   null;
+
+/**
+ * If you need non-English quotes, please alter the following values accordingly:
+ */
+@if $english-quotes != true{
+    $open-quote:    «;
+    $close-quote:   »;
+}
+
+
+/**
+ * Brand stuff
+ */
+$brand-color:           hsl(217, 28%, 22%)!default; // dark blue
+$brand-color-medium:    adjust-color($brand-color, $saturation: -6%, $lightness: +7%)!default;
+$brand-color-light:     adjust-color($brand-color, $saturation: -13%, $lightness: +17%)!default;
+$brand-color-vlight:    adjust-color($brand-color, $saturation: -17%, $lightness: +22%)!default;
+$brand-color-slight:    adjust-color($brand-color, $saturation: -7%, $lightness: +42%)!default;
+$brand-color-xlight:    adjust-color($brand-color, $saturation: -2%, $lightness: +71%)!default;
+$brand-face:            verdana, arial, sans-serif!default;
+$brad-face-h:           "Century Gothic", sans-serif!default;
+$text-color:            #6D6D6D!default; // grey
+$link-color:            #234175!default; // deep blue
+$link-color-hover:      #D69C22!default; // dirty orange
+
+/**
+ * Layout
+ */
+ $max-width:        960px!default;
+
+
+/**
+ * inuit.css will work these next ones out for you.
+ *
+ * Assign our `$base-line-height` to a new spacing var for more transparency.
+ */
+$base-spacing-unit: $base-line-height!default;
+$half-spacing-unit: $base-spacing-unit / 2!default;
+$line-height-ratio: $base-line-height / $base-font-size;

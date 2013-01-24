@@ -1,0 +1,586 @@
+2013-01-15 13:11:40 overwrite css/ie.css 
+2013-01-15 13:11:40 overwrite css/print.css 
+2013-01-15 13:11:40 overwrite css/screen.css 
+2013-01-15 13:11:45 identical css/screen.css 
+2013-01-15 13:16:13    create css/vars.css 
+2013-01-15 13:17:03 identical css/vars.css 
+2013-01-15 13:18:01    create css/global.css 
+2013-01-15 13:19:29     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:19:29 overwrite css/global.css 
+2013-01-15 13:19:50     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:19:50 identical css/global.css 
+2013-01-15 13:19:51 overwrite css/screen.css 
+2013-01-15 13:30:25     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:30:25 overwrite css/screen.css 
+2013-01-15 13:31:39     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:31:39 identical css/global.css 
+2013-01-15 13:31:39     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:31:39 identical css/screen.css 
+2013-01-15 13:32:00     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:32:00 identical css/global.css 
+2013-01-15 13:32:00     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:32:00 identical css/screen.css 
+2013-01-15 13:32:22    create css/menu.css 
+2013-01-15 13:32:22     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:32:22 overwrite css/screen.css 
+2013-01-15 13:32:44     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:32:44 overwrite css/screen.css 
+2013-01-15 13:32:59    create css/content.css 
+2013-01-15 13:32:59     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:32:59 overwrite css/screen.css 
+2013-01-15 13:33:11     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:33:11 overwrite css/screen.css 
+2013-01-15 13:33:56    create css/media.css 
+2013-01-15 13:33:56     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:33:56 overwrite css/screen.css 
+2013-01-15 13:34:23    create css/navigation.css 
+2013-01-15 13:34:23     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:34:23 identical css/screen.css 
+2013-01-15 13:34:58    create css/aside.css 
+2013-01-15 13:34:58     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:34:58 identical css/screen.css 
+2013-01-15 13:35:05     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:35:05 overwrite css/screen.css 
+2013-01-15 13:35:14     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:35:14 identical css/screen.css 
+2013-01-15 13:35:26    create css/asides.css 
+2013-01-15 13:35:26     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:35:26 overwrite css/screen.css 
+2013-01-15 13:35:27     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:35:27 overwrite css/screen.css 
+2013-01-15 13:35:50    create css/comments.css 
+2013-01-15 13:35:50     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:35:50 identical css/screen.css 
+2013-01-15 13:36:16     error scss/screen.scss (Line 7: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:36:16 identical css/screen.css 
+2013-01-15 13:36:16    create css/widgets.css 
+2013-01-15 13:37:15     error scss/screen.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:37:15 overwrite css/screen.css 
+2013-01-15 13:39:31    create asides.css 
+2013-01-15 13:39:31    create comments.css 
+2013-01-15 13:39:31    create content.css 
+2013-01-15 13:39:31     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:39:31    create global.css 
+2013-01-15 13:39:31    create ie.css 
+2013-01-15 13:39:31    create media.css 
+2013-01-15 13:39:32    create menu.css 
+2013-01-15 13:39:32    create navigation.css 
+2013-01-15 13:39:32    create print.css 
+2013-01-15 13:39:32     error scss/screen.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:39:32    create screen.css 
+2013-01-15 13:39:32    create vars.css 
+2013-01-15 13:39:32    create widgets.css 
+2013-01-15 13:39:38     error scss/screen.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:39:38 overwrite screen.css 
+2013-01-15 13:41:08 identical asides.css 
+2013-01-15 13:41:08 identical comments.css 
+2013-01-15 13:41:08 identical content.css 
+2013-01-15 13:41:08     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:41:08 overwrite global.css 
+2013-01-15 13:41:08 identical ie.css 
+2013-01-15 13:41:08 identical media.css 
+2013-01-15 13:41:08 identical menu.css 
+2013-01-15 13:41:08 identical navigation.css 
+2013-01-15 13:41:08 identical print.css 
+2013-01-15 13:41:09     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:41:09 overwrite style.css 
+2013-01-15 13:41:09 identical vars.css 
+2013-01-15 13:41:09 identical widgets.css 
+2013-01-15 13:41:09     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:41:09 overwrite style.css 
+2013-01-15 13:41:14     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:41:14 overwrite style.css 
+2013-01-15 13:41:42     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:41:42 identical style.css 
+2013-01-15 13:42:12 identical asides.css 
+2013-01-15 13:42:12 identical comments.css 
+2013-01-15 13:42:12 identical content.css 
+2013-01-15 13:42:13     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:42:13 overwrite global.css 
+2013-01-15 13:42:13 identical ie.css 
+2013-01-15 13:42:13 identical media.css 
+2013-01-15 13:42:13 identical menu.css 
+2013-01-15 13:42:13 identical navigation.css 
+2013-01-15 13:42:13 identical print.css 
+2013-01-15 13:42:13     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:42:13 overwrite style.css 
+2013-01-15 13:42:13 identical vars.css 
+2013-01-15 13:42:13 identical widgets.css 
+2013-01-15 13:42:15     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:42:15 overwrite style.css 
+2013-01-15 13:45:56 identical asides.css 
+2013-01-15 13:45:56 identical comments.css 
+2013-01-15 13:45:56 identical content.css 
+2013-01-15 13:45:56     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:45:56 identical global.css 
+2013-01-15 13:45:56 identical ie.css 
+2013-01-15 13:45:57 identical media.css 
+2013-01-15 13:45:57 identical menu.css 
+2013-01-15 13:45:57 identical navigation.css 
+2013-01-15 13:45:57 identical print.css 
+2013-01-15 13:45:57     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:45:57 overwrite style.css 
+2013-01-15 13:45:57 identical vars.css 
+2013-01-15 13:45:57 identical widgets.css 
+2013-01-15 13:46:04     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:46:04 overwrite style.css 
+2013-01-15 13:46:37 identical ./asides.css 
+2013-01-15 13:46:37 identical ./comments.css 
+2013-01-15 13:46:37 identical ./content.css 
+2013-01-15 13:46:37     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:46:37 identical ./global.css 
+2013-01-15 13:46:37 identical ./ie.css 
+2013-01-15 13:46:37 identical ./media.css 
+2013-01-15 13:46:37 identical ./menu.css 
+2013-01-15 13:46:37 identical ./navigation.css 
+2013-01-15 13:46:37 identical ./print.css 
+2013-01-15 13:46:38     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:46:38 overwrite ./style.css 
+2013-01-15 13:46:38 identical ./vars.css 
+2013-01-15 13:46:38 identical ./widgets.css 
+2013-01-15 13:46:45     error scss/style.scss (Line 28: Invalid CSS after "@import "compass"": expected selector or at-rule, was "@import "vars";")
+2013-01-15 13:46:45 overwrite ./style.css 
+2013-01-15 13:47:32 identical asides.css 
+2013-01-15 13:47:32 identical comments.css 
+2013-01-15 13:47:32 identical content.css 
+2013-01-15 13:47:32     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:47:32 identical global.css 
+2013-01-15 13:47:32 identical ie.css 
+2013-01-15 13:47:32 identical media.css 
+2013-01-15 13:47:32 identical menu.css 
+2013-01-15 13:47:32 identical navigation.css 
+2013-01-15 13:47:32 identical print.css 
+2013-01-15 13:47:34 overwrite style.css 
+2013-01-15 13:47:34 identical vars.css 
+2013-01-15 13:47:34 identical widgets.css 
+2013-01-15 13:47:39 identical style.css 
+2013-01-15 13:48:38 identical style.css 
+2013-01-15 13:49:16 identical asides.css 
+2013-01-15 13:49:16 identical comments.css 
+2013-01-15 13:49:16 identical content.css 
+2013-01-15 13:49:16     error scss/global.scss (Line 6: Undefined variable: "$text".)
+2013-01-15 13:49:16 overwrite global.css 
+2013-01-15 13:49:16 identical ie.css 
+2013-01-15 13:49:16 identical media.css 
+2013-01-15 13:49:16 identical menu.css 
+2013-01-15 13:49:16 identical navigation.css 
+2013-01-15 13:49:16 identical print.css 
+2013-01-15 13:49:18 identical style.css 
+2013-01-15 13:49:18 identical vars.css 
+2013-01-15 13:49:18 identical widgets.css 
+2013-01-15 13:49:29 overwrite style.css 
+2013-01-15 13:50:21 identical style.css 
+2013-01-15 13:51:06     error scss/style.scss (Line 28: File to import not found or unreadable: vars.
+Load paths:
+  /Users/kevinattfield/Sites/wordpress/wp-content/themes/ww2/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-01-15 13:51:06 overwrite style.css 
+2013-01-15 13:51:09     error scss/style.scss (Line 28: File to import not found or unreadable: vars.
+Load paths:
+  /Users/kevinattfield/Sites/wordpress/wp-content/themes/ww2/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-01-15 13:51:09 identical style.css 
+2013-01-15 13:51:10     error scss/style.scss (Line 28: File to import not found or unreadable: vars.
+Load paths:
+  /Users/kevinattfield/Sites/wordpress/wp-content/themes/ww2/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-01-15 13:51:10 overwrite style.css 
+2013-01-15 13:51:44 overwrite style.css 
+2013-01-15 13:52:44    create media.css 
+2013-01-15 13:52:44 identical style.css 
+2013-01-15 13:54:57    create print.css 
+2013-01-15 13:56:11 overwrite style.css 
+2013-01-15 13:56:17 overwrite style.css 
+2013-01-16 13:15:11 overwrite ie.css 
+2013-01-16 13:15:11 identical print.css 
+2013-01-16 13:15:15 overwrite style.css 
+2013-01-16 13:15:24 identical style.css 
+2013-01-16 13:21:49 overwrite ie.css 
+2013-01-16 13:21:49 overwrite print.css 
+2013-01-16 13:21:52 overwrite style.css 
+2013-01-16 13:23:03 overwrite style.css 
+2013-01-16 13:23:22 identical style.css 
+2013-01-16 13:25:01 overwrite style.css 
+2013-01-16 13:25:12 overwrite style.css 
+2013-01-16 13:25:34 identical style.css 
+2013-01-16 13:50:15     error scss/style.scss (Line 15 of scss/_global.scss: Undefined variable: "$max-width".)
+2013-01-16 13:50:15 overwrite style.css 
+2013-01-16 13:51:09     error scss/style.scss (Line 15 of scss/_global.scss: Undefined variable: "$max-width".)
+2013-01-16 13:51:09 identical style.css 
+2013-01-16 13:51:41 overwrite style.css 
+2013-01-16 13:51:56 identical style.css 
+2013-01-16 13:52:04 identical style.css 
+2013-01-16 13:52:26 overwrite style.css 
+2013-01-16 13:52:40 overwrite style.css 
+2013-01-16 14:02:57 overwrite style.css 
+2013-01-16 14:26:49 overwrite style.css 
+2013-01-16 14:28:55 identical style.css 
+2013-01-16 14:28:58 overwrite style.css 
+2013-01-16 14:29:05 identical style.css 
+2013-01-16 14:29:56     error scss/style.scss (Line 253 of scss/_global.scss: Undefined variable: "$link-color-visited".)
+2013-01-16 14:29:56 overwrite style.css 
+2013-01-16 14:30:05 overwrite style.css 
+2013-01-16 14:30:34 overwrite style.css 
+2013-01-16 14:30:37 identical style.css 
+2013-01-16 14:30:45 overwrite style.css 
+2013-01-16 14:32:46 overwrite style.css 
+2013-01-16 14:39:03 overwrite style.css 
+2013-01-16 14:39:42 overwrite style.css 
+2013-01-16 15:09:51 identical style.css 
+2013-01-16 15:44:43 overwrite style.css 
+2013-01-16 15:45:03 identical style.css 
+2013-01-16 15:45:50 identical style.css 
+2013-01-16 15:46:22 overwrite style.css 
+2013-01-16 15:47:34 overwrite style.css 
+2013-01-16 15:50:10 overwrite style.css 
+2013-01-16 15:54:49 overwrite style.css 
+2013-01-16 15:56:34 overwrite style.css 
+2013-01-16 16:04:00 overwrite style.css 
+2013-01-16 16:28:30 overwrite style.css 
+2013-01-16 16:46:48     error scss/style.scss (Line 32 of scss/_header.scss: Invalid CSS after "	vertical-align": expected ";", was ": baseline;")
+2013-01-16 16:46:48 overwrite style.css 
+2013-01-16 16:46:59 overwrite style.css 
+2013-01-16 16:51:46 overwrite style.css 
+2013-01-16 16:54:46 overwrite style.css 
+2013-01-16 16:56:02 overwrite style.css 
+2013-01-16 16:57:08 overwrite style.css 
+2013-01-16 19:12:32 overwrite style.css 
+2013-01-16 19:13:00 overwrite style.css 
+2013-01-16 19:14:36 overwrite style.css 
+2013-01-16 19:14:53 overwrite style.css 
+2013-01-16 19:24:44 identical style.css 
+2013-01-16 19:34:30 overwrite style.css 
+2013-01-16 19:35:48 overwrite style.css 
+2013-01-16 19:46:29 overwrite style.css 
+2013-01-16 19:47:00 overwrite style.css 
+2013-01-16 19:48:57 overwrite style.css 
+2013-01-16 19:56:59 overwrite style.css 
+2013-01-16 20:05:34 overwrite style.css 
+2013-01-16 20:05:48 overwrite style.css 
+2013-01-16 20:17:20 overwrite style.css 
+2013-01-16 20:18:59 overwrite style.css 
+2013-01-16 20:19:12 overwrite style.css 
+2013-01-17 09:18:25 overwrite style.css 
+2013-01-17 09:19:58 overwrite style.css 
+2013-01-17 09:24:01 identical style.css 
+2013-01-17 09:35:28 overwrite style.css 
+2013-01-17 09:46:15 overwrite style.css 
+2013-01-17 11:10:56 overwrite style.css 
+2013-01-17 11:11:38 overwrite style.css 
+2013-01-17 11:12:23 overwrite style.css 
+2013-01-17 11:12:47 overwrite style.css 
+2013-01-17 12:49:41     error scss/style.scss (Line 14 of scss/_header.scss: Undefined variable: "$brand-color-vlight".)
+2013-01-17 12:49:41 overwrite style.css 
+2013-01-17 12:49:55 overwrite style.css 
+2013-01-17 12:50:25 overwrite style.css 
+2013-01-17 13:20:30     error scss/style.scss (Line 107 of scss/_vars.scss: wrong number of arguments (3 for 4) for `hsla')
+2013-01-17 13:20:30 overwrite style.css 
+2013-01-17 13:20:41 overwrite style.css 
+2013-01-17 13:21:01 overwrite style.css 
+2013-01-17 13:23:16 overwrite style.css 
+2013-01-17 13:38:57 overwrite style.css 
+2013-01-17 13:39:26 overwrite style.css 
+2013-01-17 13:40:45 overwrite style.css 
+2013-01-17 14:05:10 identical style.css 
+2013-01-17 14:05:17     error scss/style.scss (Line 31: File to import not found or unreadable: menu.
+Load paths:
+  /Users/kevinattfield/Sites/wordpress/wp-content/themes/ww2/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-01-17 14:05:17 overwrite style.css 
+2013-01-17 14:05:27 overwrite style.css 
+2013-01-17 14:32:56 overwrite style.css 
+2013-01-17 14:33:44 overwrite style.css 
+2013-01-17 14:35:47 overwrite style.css 
+2013-01-17 14:36:01 overwrite style.css 
+2013-01-17 14:36:44 overwrite style.css 
+2013-01-17 14:38:19 overwrite style.css 
+2013-01-17 14:38:54 overwrite style.css 
+2013-01-17 14:41:07 overwrite style.css 
+2013-01-17 14:41:40 overwrite style.css 
+2013-01-17 14:42:12 overwrite style.css 
+2013-01-17 14:42:45 overwrite style.css 
+2013-01-17 14:44:55 overwrite style.css 
+2013-01-17 14:45:18 overwrite style.css 
+2013-01-17 15:46:41 overwrite style.css 
+2013-01-17 15:48:09 overwrite style.css 
+2013-01-17 15:49:45 overwrite style.css 
+2013-01-17 15:50:41 overwrite style.css 
+2013-01-17 15:50:50 overwrite style.css 
+2013-01-17 15:51:00 overwrite style.css 
+2013-01-17 15:53:29 overwrite style.css 
+2013-01-17 15:53:54 overwrite style.css 
+2013-01-17 15:53:57 overwrite style.css 
+2013-01-17 15:54:09 overwrite style.css 
+2013-01-17 15:54:50 overwrite style.css 
+2013-01-17 15:56:24 overwrite style.css 
+2013-01-17 15:58:18 overwrite style.css 
+2013-01-17 15:58:55 overwrite style.css 
+2013-01-17 15:59:23 overwrite style.css 
+2013-01-17 16:04:10 overwrite style.css 
+2013-01-17 16:05:13 overwrite style.css 
+2013-01-17 16:05:23 overwrite style.css 
+2013-01-17 16:09:04 overwrite style.css 
+2013-01-17 16:10:16 overwrite style.css 
+2013-01-17 16:12:09 overwrite style.css 
+2013-01-17 16:19:33 overwrite style.css 
+2013-01-17 16:20:24 overwrite style.css 
+2013-01-17 16:20:33 overwrite style.css 
+2013-01-17 16:21:01 overwrite style.css 
+2013-01-17 16:21:37 overwrite style.css 
+2013-01-17 16:23:48 overwrite style.css 
+2013-01-17 16:25:05 overwrite style.css 
+2013-01-17 16:25:36 overwrite style.css 
+2013-01-17 16:26:41 overwrite style.css 
+2013-01-17 16:27:57 overwrite style.css 
+2013-01-17 16:30:17 overwrite style.css 
+2013-01-17 16:30:54 overwrite style.css 
+2013-01-17 16:31:54 overwrite style.css 
+2013-01-17 16:32:44 overwrite style.css 
+2013-01-17 16:33:20 overwrite style.css 
+2013-01-17 16:37:14 overwrite style.css 
+2013-01-17 16:37:53 overwrite style.css 
+2013-01-17 16:38:05 overwrite style.css 
+2013-01-17 16:39:25 overwrite style.css 
+2013-01-17 23:01:35 overwrite style.css 
+2013-01-17 23:01:48 identical style.css 
+2013-01-17 23:03:00 overwrite style.css 
+2013-01-17 23:21:21 overwrite style.css 
+2013-01-17 23:39:42 overwrite style.css 
+2013-01-17 23:40:57 overwrite style.css 
+2013-01-17 23:42:09 overwrite style.css 
+2013-01-17 23:43:21 overwrite style.css 
+2013-01-17 23:43:33 overwrite style.css 
+2013-01-17 23:47:27 identical style.css 
+2013-01-17 23:51:51 overwrite style.css 
+2013-01-17 23:52:56 overwrite style.css 
+2013-01-17 23:55:57 overwrite style.css 
+2013-01-17 23:56:47 overwrite style.css 
+2013-01-17 23:57:12 overwrite style.css 
+2013-01-18 00:01:46 overwrite style.css 
+2013-01-18 00:02:13 overwrite style.css 
+2013-01-18 00:02:37 overwrite style.css 
+2013-01-18 00:04:11 overwrite style.css 
+2013-01-18 00:15:46 overwrite style.css 
+2013-01-18 00:16:25 overwrite style.css 
+2013-01-18 00:31:14 overwrite style.css 
+2013-01-18 00:31:42 overwrite style.css 
+2013-01-18 00:55:27 overwrite style.css 
+2013-01-18 09:35:00 identical style.css 
+2013-01-18 09:38:38 overwrite style.css 
+2013-01-18 09:39:02 overwrite style.css 
+2013-01-18 09:41:43 overwrite style.css 
+2013-01-18 09:42:25 overwrite style.css 
+2013-01-18 09:43:25 overwrite style.css 
+2013-01-18 09:45:17 overwrite style.css 
+2013-01-18 09:46:14 overwrite style.css 
+2013-01-18 09:46:47 overwrite style.css 
+2013-01-18 09:53:27 overwrite style.css 
+2013-01-18 09:54:48 overwrite style.css 
+2013-01-18 09:57:03 overwrite style.css 
+2013-01-18 09:57:19 overwrite style.css 
+2013-01-18 09:58:27 overwrite style.css 
+2013-01-18 09:59:36 overwrite style.css 
+2013-01-18 10:00:59 overwrite style.css 
+2013-01-18 10:03:09 overwrite style.css 
+2013-01-18 10:08:41 overwrite style.css 
+2013-01-18 10:11:53 overwrite style.css 
+2013-01-18 10:13:44     error scss/style.scss (Line 108 of scss/_header.scss: Undefined variable: "$brand-color-dark".)
+2013-01-18 10:13:44 overwrite style.css 
+2013-01-18 10:13:54     error scss/style.scss (Line 108 of scss/_header.scss: Undefined variable: "$brand-color-dark".)
+2013-01-18 10:13:54 identical style.css 
+2013-01-18 10:14:01 overwrite style.css 
+2013-01-18 10:14:38 overwrite style.css 
+2013-01-18 14:05:41     error scss/style.scss (Line 26 of scss/_header.scss: Undefined variable: "$brand-link-hover".)
+2013-01-18 14:05:41 overwrite style.css 
+2013-01-18 14:06:06 overwrite style.css 
+2013-01-18 14:06:15 overwrite style.css 
+2013-01-18 14:06:36 overwrite style.css 
+2013-01-18 14:12:48 overwrite style.css 
+2013-01-18 14:13:24 overwrite style.css 
+2013-01-18 14:13:35 overwrite style.css 
+2013-01-18 14:20:45 identical style.css 
+2013-01-18 14:25:32 identical style.css 
+2013-01-18 14:28:08 overwrite style.css 
+2013-01-18 16:43:26 overwrite style.css 
+2013-01-18 16:45:43 overwrite style.css 
+2013-01-18 18:05:08 overwrite style.css 
+2013-01-18 18:11:35 overwrite style.css 
+2013-01-18 18:11:59 overwrite style.css 
+2013-01-18 18:12:44 overwrite style.css 
+2013-01-18 18:12:59 overwrite style.css 
+2013-01-18 18:13:13 overwrite style.css 
+2013-01-18 18:36:15 overwrite style.css 
+2013-01-18 18:37:23 overwrite style.css 
+2013-01-18 18:37:33 overwrite style.css 
+2013-01-18 18:38:09 overwrite style.css 
+2013-01-18 18:39:26 overwrite style.css 
+2013-01-18 18:40:24 overwrite style.css 
+2013-01-18 18:41:27 overwrite style.css 
+2013-01-18 18:42:01     error scss/style.scss (Line 15 of scss/_header.scss: Invalid CSS after "...ze: $milli-size": expected ";", was ":;")
+2013-01-18 18:42:01 overwrite style.css 
+2013-01-18 19:52:28     error scss/style.scss (Line 15 of scss/_header.scss: Invalid CSS after "...ze: $milli-size": expected ";", was ":;")
+2013-01-18 19:52:28 identical style.css 
+2013-01-18 19:52:57     error scss/style.scss (Line 61 of scss/_header.scss: Invalid CSS after "...ze: $milli-size": expected ";", was ":;")
+2013-01-18 19:52:57 overwrite style.css 
+2013-01-18 19:53:12     error scss/style.scss (Line 98 of scss/_header.scss: Invalid CSS after "...ze: $milli-size": expected ";", was ":;")
+2013-01-18 19:53:12 overwrite style.css 
+2013-01-18 19:53:17 overwrite style.css 
+2013-01-18 19:54:26 overwrite style.css 
+2013-01-18 19:56:01 overwrite style.css 
+2013-01-18 20:01:35 identical style.css 
+2013-01-18 20:16:59 identical style.css 
+2013-01-18 20:17:13     error scss/style.scss (Line 7 of scss/_widgets.scss: Invalid CSS after "	border-radius": expected "{", was "();")
+2013-01-18 20:17:13 overwrite style.css 
+2013-01-18 20:18:41 overwrite style.css 
+2013-01-18 20:23:05 identical style.css 
+2013-01-18 20:24:01     error scss/style.scss (Line 32: File to import not found or unreadable: navigation.
+Load paths:
+  /Users/kevinattfield/Sites/wordpress/wp-content/themes/ww2/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-01-18 20:24:02 overwrite style.css 
+2013-01-18 20:24:11 overwrite style.css 
+2013-01-18 20:27:29 overwrite style.css 
+2013-01-18 20:27:34 overwrite style.css 
+2013-01-18 20:27:49 overwrite style.css 
+2013-01-18 20:28:34 overwrite style.css 
+2013-01-18 21:28:14 overwrite style.css 
+2013-01-18 21:28:32 overwrite style.css 
+2013-01-19 11:13:57     error scss/style.scss (Line 5 of scss/_footer.scss: Invalid CSS after ".site-footer ": expected "{", was "")
+2013-01-19 11:13:57 overwrite style.css 
+2013-01-19 11:14:00 overwrite style.css 
+2013-01-19 11:19:36 overwrite style.css 
+2013-01-19 11:19:51 overwrite style.css 
+2013-01-19 11:20:26 overwrite style.css 
+2013-01-19 11:21:39 overwrite style.css 
+2013-01-19 11:25:16 overwrite style.css 
+2013-01-19 11:26:01 overwrite style.css 
+2013-01-19 11:32:16 overwrite style.css 
+2013-01-19 11:32:42 identical style.css 
+2013-01-19 11:33:18 overwrite style.css 
+2013-01-19 11:33:46 identical style.css 
+2013-01-19 11:36:19 overwrite style.css 
+2013-01-19 11:36:45 overwrite style.css 
+2013-01-19 11:38:08     error scss/style.scss (Line 29 of scss/_footer.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2013-01-19 11:38:08 overwrite style.css 
+2013-01-19 11:38:22 overwrite style.css 
+2013-01-19 11:39:27 overwrite style.css 
+2013-01-19 11:40:42 overwrite style.css 
+2013-01-19 11:41:04 overwrite style.css 
+2013-01-19 11:46:32 overwrite style.css 
+2013-01-19 12:10:40 overwrite style.css 
+2013-01-19 12:11:18 overwrite style.css 
+2013-01-19 12:13:39 overwrite style.css 
+2013-01-19 12:14:33 overwrite style.css 
+2013-01-19 12:14:48 overwrite style.css 
+2013-01-19 12:15:00 overwrite style.css 
+2013-01-19 12:24:13 identical style.css 
+2013-01-19 12:24:25 overwrite style.css 
+2013-01-19 12:24:32 overwrite style.css 
+2013-01-19 12:25:32 overwrite style.css 
+2013-01-19 12:26:43 overwrite style.css 
+2013-01-19 12:27:10 overwrite style.css 
+2013-01-19 12:27:55 overwrite style.css 
+2013-01-19 12:31:46     error scss/style.scss (Line 62 of scss/_footer.scss: Invalid CSS after "}": expected "}", was "")
+2013-01-19 12:31:46 overwrite style.css 
+2013-01-19 12:32:18 overwrite style.css 
+2013-01-19 12:33:15 overwrite style.css 
+2013-01-19 12:34:06 overwrite style.css 
+2013-01-19 12:35:10 overwrite style.css 
+2013-01-19 12:35:55 overwrite style.css 
+2013-01-19 12:36:19 overwrite style.css 
+2013-01-19 12:36:27 overwrite style.css 
+2013-01-19 12:36:37 overwrite style.css 
+2013-01-19 12:41:46 overwrite style.css 
+2013-01-19 12:41:57 overwrite style.css 
+2013-01-19 12:43:21 overwrite style.css 
+2013-01-19 12:43:41 overwrite style.css 
+2013-01-19 12:44:21 overwrite style.css 
+2013-01-19 12:44:51 overwrite style.css 
+2013-01-19 12:45:24 overwrite style.css 
+2013-01-19 12:45:42 overwrite style.css 
+2013-01-19 12:46:00 overwrite style.css 
+2013-01-19 12:46:59 overwrite style.css 
+2013-01-19 12:47:38 overwrite style.css 
+2013-01-19 12:48:56 overwrite style.css 
+2013-01-19 12:49:06 overwrite style.css 
+2013-01-19 12:49:12 overwrite style.css 
+2013-01-21 23:03:19 identical style.css 
+2013-01-21 23:03:22 identical style.css 
+2013-01-21 23:03:25 identical style.css 
+2013-01-21 23:03:30 identical style.css 
+2013-01-21 23:14:58 identical ie.css 
+2013-01-21 23:14:58 identical print.css 
+2013-01-21 23:15:02 overwrite style.css 
+2013-01-22 11:49:54 overwrite style.css 
+2013-01-22 11:50:02 identical style.css 
+2013-01-22 11:51:08 overwrite style.css 
+2013-01-22 13:13:26 overwrite style.css 
+2013-01-22 13:13:45 overwrite style.css 
+2013-01-23 13:43:25 overwrite style.css 
+2013-01-23 13:44:19 overwrite style.css 
+2013-01-23 13:45:43 identical style.css 
+2013-01-24 10:31:39 overwrite style.css 
+2013-01-24 10:32:19 overwrite style.css 
+2013-01-24 10:32:50 overwrite style.css 
+2013-01-24 10:35:40 overwrite style.css 
+2013-01-24 10:50:03 overwrite style.css 
+2013-01-24 10:51:13 overwrite style.css 
+2013-01-24 13:26:33 overwrite style.css 
+2013-01-24 13:28:31 overwrite style.css 
+2013-01-24 13:31:38 overwrite style.css 
+2013-01-24 15:27:52 overwrite style.css 
+2013-01-24 15:28:56 identical style.css 
+2013-01-24 15:30:40 overwrite style.css 
+2013-01-24 15:31:54 overwrite style.css 
+2013-01-24 15:32:03 overwrite style.css 
+2013-01-24 15:32:11 overwrite style.css 

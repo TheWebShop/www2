@@ -1,0 +1,20 @@
+.widget {
+    margin: 1em 0;
+}
+.widget {
+    background-color: #E6E6E6;
+    border: 1px solid #D3D3D3;
+    color: #646464;
+    @include border-radius();
+}
+.widget-title {
+    font-size: $h3-size;
+    font-weight: normal;
+    color: #282828;
+    border-bottom: 1px solid #D3D3D3;
+    padding: 1em;
+    margin: 0;
+}
+.widget-content {
+    padding: 1em;
+}

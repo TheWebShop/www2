@@ -1,0 +1,125 @@
+.pre-header {
+    background-color: $brand-color;
+}
+.top-nav {
+    margin: 0;
+    padding: 0;
+}
+.top-nav>li>a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 7px 3px 7px 5px;
+    font-size: $milli-size;
+}
+.top-nav>li>a:hover {
+    background-color: $brand-color-xlight;
+    color: $brand-color;
+    text-decoration: underline;
+}
+.site-header {
+    background: $brand-color-medium;
+    overflow: auto;
+}
+.site-header h1, .site-header hgroup, .site-header a{
+    margin: 0;
+    color: white;
+}
+.site-title {
+    padding: 10px;
+    margin: 0;
+}
+.site-description {
+    color: white;
+}
+.main-navigation {
+    background-color: $brand-color-light;
+}
+.main-navigation h1, .main-navigation h2, .main-navigation ul {
+    margin: 0;
+}
+.main-nav {
+    height: 46px;
+}
+.main-nav>li{
+    height: 46px;
+    width: 110px;
+    float: left;
+    display: table;
+    text-align: left;
+    vertical-align: baseline;
+    background: url(img/subtheme_nav_spacer.png) no-repeat 0 0;
+}
+.main-nav>li>a{
+    color: white;
+}
+.main-nav>li:first-of-type{
+    background: none;
+}
+.main-nav>li>a{
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    padding: 0 5px;
+    font-size: $milli-size;
+    line-height: 13px;
+    display: table-cell;
+}
+.main-navigation a:hover{
+    color: white;
+    background-color: $brand-color-vlight;
+    text-decoration: underline;
+}
+.main-navigation .current-menu-item a:hover, .main-navigation .current-menu-ancestor a:hover{
+    color: $brand-color;
+    background-color: $brand-color-xlight;
+}
+.main-nav li:hover + li {
+    background: none;
+}
+.main-nav .current-menu-item + li, .main-nav .current-menu-ancestor + li {
+    background: none;
+}
+.main-nav .current-menu-item a, .main-nav .current-menu-ancestor a{
+    background-color: $brand-color-xlight;
+    color: $brand-color;
+}
+.main-navigation ul {
+    list-style-type: none;
+}
+.main-nav>li>ul {
+    display: none;
+}
+.sub-navigation {
+    background: $brand-color-xlight;
+    padding: 1em;
+}
+.sub-nav ul{
+    margin: .5em 0;
+}
+.sub-nav li{
+    font-size: $milli-size;
+    line-height: 13px;
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.sub-nav>ul>li {
+    width: 220px;
+    float: left;
+    margin: 1em 0;
+}
+.sub-nav a {
+    color: $brand-color;
+}
+.sub-nav ul ul {
+    margin-left: 1em;
+}
+.sub-nav ul ul li {
+    font-weight: normal;
+}
+.sub-nav .current-menu-item>a {
+    color: white;
+}
