@@ -5,16 +5,10 @@
  */
 (function($) {
     wp.customize('www2_theme_options[logo]', function(value) {
-        console.log(_wpCustomizeSettings.values)
         value.bind( function(src) {
             var settings = _wpCustomizeSettings.values;
             var blogname = settings['blogname'];
             var isShown = settings['www2_theme_options[showTitle]'];
-            console.log({
-                src: src,
-                blogname: blogname,
-                isShown: isShown
-            })
             var $logo = $('<img>')
                 .attr('src', src)
                 .attr('alt', blogname);
@@ -50,6 +44,7 @@
     wp.customize('www2_theme_options[credits]', function(value) {
         value.bind( function(credits) {
             $('.site-credits').html(credits);
+            alert('DONT DO THAT')
         });
     });
 })(jQuery);

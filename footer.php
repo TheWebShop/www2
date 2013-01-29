@@ -16,6 +16,7 @@ global $theme_options;
 			'menu_class'      => 'menu nav  main-nav',
 			'menu_id'         => 'main-nav-bottom',
 			'depth'           => 1,
+			'fallback_cb'     => false,
 		) ); ?>
 	</div><!-- .container -->
 </nav><!-- .site-navigation .main-navigation -->

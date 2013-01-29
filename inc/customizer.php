@@ -141,6 +141,6 @@ add_action('customize_register', 'www2_customize_register');
  * @since www2 1.2
  */
 function www2_customize_preview_js() {
-    wp_enqueue_script('www2_customizer', get_template_directory_uri() . '/js/customizer.js', array('customize-preview'), '20130125-17', true);
+    wp_enqueue_script('www2_customizer', get_template_directory_uri() . '/js/customizer.js', array('customize-preview'), '20130125-19', true);
 }
 add_action('customize_preview_init', 'www2_customize_preview_js');
