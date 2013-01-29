@@ -105,8 +105,8 @@ $close-quote:   null;
 
 /**
  * Brand stuff
- */
-$brand-color:           hsl(217, 28%, 22%)!default; // dark blue
+ */ //217
+$brand-color:           hsl(110, 28%, 22%)!default; // dark blue
 $brand-color-medium:    adjust-color($brand-color, $saturation: -6%, $lightness: +7%)!default;
 $brand-color-light:     adjust-color($brand-color, $saturation: -13%, $lightness: +17%)!default;
 $brand-color-vlight:    adjust-color($brand-color, $saturation: -17%, $lightness: +22%)!default;

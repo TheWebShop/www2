@@ -4323,7 +4323,7 @@ html.flexbox {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/inuit\.css\/generic\/_brand\.scss}line{font-family:\000038}}
 .brand {
   font-family: verdana, arial, sans-serif!important;
-  color: #283448!important;
+  color: #2e4828!important;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/inuit\.css\/generic\/_brand\.scss}line{font-family:\0000312}}
@@ -4334,7 +4334,7 @@ html.flexbox {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/inuit\.css\/generic\/_brand\.scss}line{font-family:\0000316}}
 .brand-color,
 .brand-colour {
-  color: #283448!important;
+  color: #2e4828!important;
 }
 
 /*------------------------------------*\
@@ -4514,7 +4514,7 @@ textarea {
 h1, h2, h3, h4, h5, h6, .alpha, .beta, .gamma, .delta, .epsilon, .zeta {
   font-family: "Century Gothic", sans-serif;
   font-weight: normal;
-  color: #283448;
+  color: #2e4828;
   line-height: 1.2;
   margin: 10px 0;
   clear: both;
@@ -4853,7 +4853,7 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\000031}}
 .pre-header {
-  background-color: #283448;
+  background-color: #2e4828;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\000034}}
@@ -4875,14 +4875,14 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000317}}
 .top-nav > li > a:hover {
-  background-color: #e9ecf2;
-  color: #283448;
+  background-color: #eaf2e9;
+  color: #2e4828;
   text-decoration: underline;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000322}}
 .site-header {
-  background: #3a465a;
+  background: #3f5a3a;
   overflow: auto;
 }
 
@@ -4905,7 +4905,7 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000337}}
 .main-navigation {
-  background-color: #556072;
+  background-color: #5a7255;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000340}}
@@ -4953,14 +4953,14 @@ a:active {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000370}}
 .main-navigation a:hover {
   color: white;
-  background-color: #646d7d;
+  background-color: #687d64;
   text-decoration: underline;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000375}}
 .main-navigation .current-menu-item a:hover, .main-navigation .current-menu-ancestor a:hover {
-  color: #283448;
-  background-color: #e9ecf2;
+  color: #2e4828;
+  background-color: #eaf2e9;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000379}}
@@ -4975,8 +4975,8 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000385}}
 .main-nav .current-menu-item a, .main-nav .current-menu-ancestor a {
-  background-color: #e9ecf2;
-  color: #283448;
+  background-color: #eaf2e9;
+  color: #2e4828;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000389}}
@@ -4991,7 +4991,7 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000395}}
 .sub-navigation {
-  background: #e9ecf2;
+  background: #eaf2e9;
   padding: 1em;
 }
 
@@ -5017,7 +5017,7 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003114}}
 .sub-nav a {
-  color: #283448;
+  color: #2e4828;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003117}}
@@ -5070,7 +5070,7 @@ a:active {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\000031}}
 .site-footer {
-  background: #3a465a;
+  background: #3f5a3a;
   overflow: hidden;
 }
 
@@ -5102,7 +5102,7 @@ a:active {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000325}}
 .site-map > li > a {
   font-size: 15px;
-  color: #909fb6;
+  color: #96b690;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000330}}
@@ -5124,7 +5124,7 @@ a:active {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000338}}
 .site-media-links li {
   padding: 0 1em;
-  border-left: 1px solid #283448;
+  border-left: 1px solid #2e4828;
   text-align: center;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000343}}
@@ -5133,7 +5133,7 @@ a:active {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000346}}
 .site-media-links a {
-  color: #283448;
+  color: #2e4828;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_footer\.scss}line{font-family:\0000350}}

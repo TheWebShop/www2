@@ -40,9 +40,9 @@ global $theme_options;
 		<hgroup>
 			<h1 class="site-title">
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?
-				$header_image = get_header_image();
-				if (!empty($header_image)) { 
-					?><img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="" /><?php 
+				$logo = $theme_options['logo'];
+				if (!empty($logo)) { 
+					?><img src="<?php echo $logo; ?>" /><?php 
 				} 
 				?><span class="site-title-text" <?php 
 				if(!$theme_options['showTitle']) echo 'style="display: none;"'; ?>><?php 
