@@ -26,54 +26,55 @@ global $theme_options;
 <body <?php body_class(); ?>>
 <?php do_action( 'before' ); ?>
 <nav class="pre-header">
-	<div class="container">
-		<?php wp_nav_menu( array(
-			'theme_location'  => 'top',
-			'menu_class'      => 'menu nav  nav--fit  top-nav',
-			'menu_id'         => 'top-nav',
-			'fallback_cb'     => false,
-		) ); ?>
-	</div>
+  <div class="container">
+    <?php wp_nav_menu( array(
+      'theme_location'  => 'top',
+      'menu_class'      => 'menu nav  nav--fit  top-nav',
+      'menu_id'         => 'top-nav',
+      'fallback_cb'     => false,
+    ) ); ?>
+  </div>
 </nav>
 <header id="masthead" class="site-header" role="banner">
-	<div class="container">
-		<hgroup>
-			<h1 class="site-title">
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?
-				$logo = $theme_options['logo'];
-				if (!empty($logo)) { 
-					?><img src="<?php echo $logo; ?>" /><?php 
-				} 
-				?><span class="site-title-text" <?php 
-				if(!$theme_options['showTitle']) echo 'style="display: none;"'; ?>><?php 
-				echo esc_attr( get_bloginfo( 'name', 'display' ) ); 
-				?></span></a>
-			</h1>
-			<?php
-			$site_description = get_bloginfo('description');
-			if ($theme_options['showDescription'] && !empty( $site_description ) ) { ?>
-			<h2 class="site-description" <?php 
-				if(!$theme_options['showDescription']) echo 'style="display: none;"'; ?>><?php 
-				echo $site_description; 
-			?></h2>
-			<? } ?>
-		</hgroup>
-	</div><!-- .container -->
+  <div class="container">
+    <hgroup>
+      <h1 class="site-title">
+        <a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?
+        $logo = $theme_options['logo'];
+        $logo_retina = $theme_options['logo_retina'];
+        if (!empty($logo)) { 
+          ?><img src="<?php echo $logo; ?>" <? if($logo_retina) { echo 'data-retina="'.$logo_retina.'"'; } ?> /><?php 
+        } 
+        ?><span class="site-title-text" <?php 
+        if(!$theme_options['showTitle']) echo 'style="display: none;"'; ?>><?php 
+        echo esc_attr( get_bloginfo( 'name', 'display' ) ); 
+        ?></span></a>
+      </h1>
+      <?php
+      $site_description = get_bloginfo('description');
+      if ($theme_options['showDescription'] && !empty( $site_description ) ) { ?>
+      <h2 class="site-description" <?php 
+        if(!$theme_options['showDescription']) echo 'style="display: none;"'; ?>><?php 
+        echo $site_description; 
+      ?></h2>
+      <? } ?>
+    </hgroup>
+  </div><!-- .container -->
 </header><!-- #masthead .site-header -->
 <nav role="navigation" class="site-navigation main-navigation" id="main-navigation">
-	<div class="container">
-		<h1 class="assistive-text"><?php _e( 'Menu', www2 ); ?></h1>
-		<div class="assistive-text skip-link"><a href="#content" title="<?php esc_attr_e( 'Skip to content', www2 ); ?>"><?php _e( 'Skip to content', www2 ); ?></a></div>
-		<?php wp_nav_menu( array(
-			'theme_location'  => 'primary',
-			'menu_class'      => 'menu nav  main-nav cf',
-			'menu_id'         => 'main-nav',
-			'fallback_cb'     => false,
-		) ); ?>
-	</div><!-- .container -->
+  <div class="container">
+    <h1 class="assistive-text"><?php _e( 'Menu', www2 ); ?></h1>
+    <div class="assistive-text skip-link"><a href="#content" title="<?php esc_attr_e( 'Skip to content', www2 ); ?>"><?php _e( 'Skip to content', www2 ); ?></a></div>
+    <?php wp_nav_menu( array(
+      'theme_location'  => 'primary',
+      'menu_class'      => 'menu nav  main-nav cf',
+      'menu_id'         => 'main-nav',
+      'fallback_cb'     => false,
+    ) ); ?>
+  </div><!-- .container -->
 </nav><!-- .site-navigation .main-navigation -->
 <div class="sub-navigation">
-	<div class="container">
-		<div class="sub-nav cf" id="sub-nav"></div>
-	</div>
+  <div class="container">
+    <div class="sub-nav cf" id="sub-nav"></div>
+  </div>
 </div>

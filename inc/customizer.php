@@ -34,17 +34,16 @@ function www2_customize_register($wp_customize ) {
         'settings' => 'www2_theme_options[logo]',
         'priority' => 1,
     )));
-    $wp_customize->add_setting('www2_theme_options[isLogoRetina]', array(
-        'type'        => 'option',
+    $wp_customize->add_setting('www2_theme_options[logo_retina]', array(
+        'type'     => 'option',
         'transport'   => 'postMessage',
     ));
-    $wp_customize->add_control('www2_isLogoRetina', array(
-        'settings' => 'www2_theme_options[isLogoRetina]',
-        'label'    => __('Halve image dimension (retina)'),
+    $wp_customize->add_control( new WP_Customize_Image_Control($wp_customize, 'www2_logo_retina', array(
+        'label'    => __('Logo Retina', 'www2'),
         'section'  => 'www2_header',
-        'type'     => 'checkbox',
+        'settings' => 'www2_theme_options[logo_retina]',
         'priority' => 2,
-    ));
+    )));
     $wp_customize->get_setting('blogname')->transport = 'postMessage';
     $wp_customize->add_control('www2_blogname', array(
         'label'     => __('Site title', 'www2'),
@@ -100,17 +99,15 @@ function www2_customize_register($wp_customize ) {
         'settings' => 'www2_theme_options[footer_logo]',
         'priority' => 1,
     )));
-    $wp_customize->add_setting('www2_theme_options[isFooterLogoRetina]', array(
-        'type'        => 'option',
-        'transport'   => 'postMessage',
+    $wp_customize->add_setting('www2_theme_options[footer_logo_retina]', array(
+        'type'           => 'option',
     ));
-    $wp_customize->add_control('www2_isFooterLogoRetina', array(
-        'settings' => 'www2_theme_options[isFooterLogoRetina]',
-        'label'    => __('Halve image dimension (retina)'),
+    $wp_customize->add_control( new WP_Customize_Image_Control($wp_customize, 'footer_logo_retina', array(
+        'label'    => __('Footer Logo Retina ', 'www2'),
         'section'  => 'www2_footer',
-        'type'     => 'checkbox',
+        'settings' => 'www2_theme_options[footer_logo_retina]',
         'priority' => 2,
-    ));
+    )));
     $wp_customize->add_setting('www2_theme_options[footer_logo_href]', array(
         'type'        => 'option',
         'transport'   => 'postMessage',

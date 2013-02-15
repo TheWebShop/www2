@@ -5164,7 +5164,8 @@ img {
   border: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000310}}
+.site-header img,
 .entry-content img,
 .comment-content img,
 .widget img {
@@ -5172,7 +5173,8 @@ img {
   /* Fluid images for posts, comments, and widgets */
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000316}}
+.site-header img,
 .entry-content img,
 img[class*="align"],
 img[class*="wp-image-"] {
@@ -5180,7 +5182,8 @@ img[class*="wp-image-"] {
   /* Make sure images with WordPress-added height and width attributes are scaled correctly */
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000321}}
+.site-header img,
 .entry-content img,
 img.size-full {
   max-width: 100%;
@@ -5188,7 +5191,7 @@ img.size-full {
   /* Prevent stretching of full-size images with height and width attributes in IE8 */
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000326}}
 .entry-content img.wp-smiley,
 .comment-content img.wp-smiley {
   border: none;
@@ -5197,49 +5200,49 @@ img.size-full {
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000332}}
 .wp-caption {
   border: 1px solid #cccccc;
   margin-bottom: 1.5em;
   max-width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000337}}
 .wp-caption img[class*="wp-image-"] {
   display: block;
   margin: 1.2% auto 0;
   max-width: 98%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000342}}
 .wp-caption-text {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000345}}
 .wp-caption .wp-caption-text {
   margin: 0.8075em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000348}}
 .site-content .gallery {
   margin-bottom: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000353}}
 .site-content .gallery a img {
   border: none;
   height: auto;
   max-width: 90%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000358}}
 .site-content .gallery dd {
   margin: 0;
 }
 
 /* Make sure embeds and iframes fit their containers */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_media\.scss}line{font-family:\0000369}}
 embed,
 iframe,
 object {

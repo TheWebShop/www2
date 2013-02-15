@@ -11,7 +11,8 @@
  * @since www2 1.0
  */
 
-get_header(); ?>
+get_header(); 
+?>
 
 <div class="container">
 
