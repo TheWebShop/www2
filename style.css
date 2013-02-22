@@ -4887,38 +4887,31 @@ a:active {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000326}}
-.site-header h1, .site-header hgroup, .site-header a {
-  margin: 0;
+.site-header h1, .site-header h2, .site-header a {
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000330}}
-.site-title {
-  padding: 10px;
-  margin: 0;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000329}}
 .site-description {
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000332}}
 .main-navigation {
   background-color: #556072;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000335}}
 .main-navigation h1, .main-navigation h2, .main-navigation ul {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000338}}
 .main-nav {
   height: 46px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000341}}
 .main-nav > li {
   height: 46px;
   width: 110px;
@@ -4929,17 +4922,17 @@ a:active {
   background: url(img/subtheme_nav_spacer.png) no-repeat 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000350}}
 .main-nav > li > a {
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000353}}
 .main-nav > li:first-of-type {
   background: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000356}}
 .main-nav > li > a {
   text-align: center;
   text-decoration: none;
@@ -4950,57 +4943,57 @@ a:active {
   display: table-cell;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000365}}
 .main-navigation a:hover {
   color: white;
   background-color: #646d7d;
   text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000370}}
 .main-navigation .current-menu-item a:hover, .main-navigation .current-menu-ancestor a:hover {
   color: #283448;
   background-color: #e9ecf2;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000374}}
 .main-nav li:hover + li {
   background: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000377}}
 .main-nav .current-menu-item + li, .main-nav .current-menu-ancestor + li {
   background: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000380}}
 .main-nav .current-menu-item a, .main-nav .current-menu-ancestor a {
   background-color: #e9ecf2;
   color: #283448;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000384}}
 .main-navigation ul {
   list-style-type: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000387}}
 .main-nav > li > ul {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000390}}
 .sub-navigation {
   background: #e9ecf2;
   padding: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000394}}
 .sub-nav ul {
   margin: 0.5em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\0000397}}
 .sub-nav li {
   font-size: 11px;
   line-height: 13px;
@@ -5008,29 +5001,29 @@ a:active {
   margin-bottom: .5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003103}}
 .sub-nav > ul > li {
   width: 220px;
   float: left;
   margin: 1em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003108}}
 .sub-nav a {
   color: #283448;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003117}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003111}}
 .sub-nav ul ul {
   margin-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003114}}
 .sub-nav ul ul li {
   font-weight: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003123}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinattfield\/Sites\/wordpress\/wp-content\/themes\/www2\/scss\/_header\.scss}line{font-family:\00003117}}
 .sub-nav .current-menu-item > a {
   color: white;
 }
